@@ -40,7 +40,7 @@ To address class imbalance:
 - **Training and validation loss curves** show good convergence.
 - Balanced accuracy improves with augmentation.
 - Resulting files are into the folder [results](results/).
-- Project is explained in the [presentation attached](doc/Machine Learning-CNN-UNET.pdf).  
+- Project is explained in the [presentation attached](doc/Machine-Learning-CNN-UNET.pdf).  
 
 ---
 
